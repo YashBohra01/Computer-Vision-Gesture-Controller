@@ -1,4 +1,4 @@
-# Computer-Vision-Gesture-Controller-
+# Computer-Vision-Gesture-Controller
 A project using Computer Vision to detect and track user's hand gestures with webcam input and controls system volume based on gestures. Implemented on Python 3 using Mediapipe and osascript to control system parameters. Developed for MacOS but can be easily implemented for Windows/Linux. There is greater number of libraries and plug ins for system control on Windows/Linux as comapred to Mac OS. 
 
 Currently implemented for system volume but can easily be expanded to brightness, switching desktops on MacOS, etc using basic osascript.
